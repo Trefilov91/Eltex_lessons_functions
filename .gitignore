@@ -72,3 +72,11 @@ dkms.conf
 obj/
 bin/
 build/
+*/build/
+*/.vscode/
+
+
+
+
+
+
